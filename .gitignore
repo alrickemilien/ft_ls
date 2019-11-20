@@ -1,0 +1,11 @@
+*.o
+*.swp
+*.DS_store
+*.a
+ft_ls
+test/*tmp*
+trash
+a.out
+*.dSYM
+fonts/
+font/
